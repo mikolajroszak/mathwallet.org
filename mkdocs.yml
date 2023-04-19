@@ -27,6 +27,7 @@ nav:
         - Near: en/near.md
         - EOS: en/eos.md
         - Nervos: en/nervos.md
+        - TON: en/ton.md
     - Resources:
         - Logos&Assets: 'https://blog.mathwallet.org/?p=396'
         - FAQ: en/more.md
