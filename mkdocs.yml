@@ -16,6 +16,7 @@ nav:
         - EVM(ETH BNB etc): en/eth.md
         - Substrate(Polkadot etc): en/polkadot.md
         - Aptos: en/aptos.md
+        - Sui: en/sui.md
         - Solana: en/solana.md
         - Arweave: en/ar.md
         - CosmosSDK: en/cosmos.md
